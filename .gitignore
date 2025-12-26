@@ -1,0 +1,19 @@
+# Archivos binarios y de compilación
+bin/
+obj/
+
+# Archivos de usuario de Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Carpetas de Visual Studio
+.vs/
+
+# Archivos de logs
+*.log
+
+# Archivos de configuración temporal
+appsettings.Development.json
+*.db
