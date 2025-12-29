@@ -29,3 +29,35 @@ body {
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
   text-align: start;
 }
+
+.bg-pink{
+    background-color:pink;
+}
+
+.bg-superpink{
+    background-color:hotpink;
+}
+
+a.nav-link:hover{
+    background-color:lightpink;
+    
+}
+
+ul.navbar-nav{
+    display:flex;
+    gap:5px;
+}
+.text-pink-main{
+    color:pink;
+
+}
+
+.text-pink-main:hover{
+    color:pink;
+}
+.text-pink-hover:hover{
+    color:deeppink;
+}
+
+a{color: mediumvioletred;
+}
